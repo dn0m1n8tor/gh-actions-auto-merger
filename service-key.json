@@ -1,0 +1,13 @@
+{
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "client_email": "terraform-test@appsec-prod-r96gqxxij9l8.iam.gserviceaccount.com",
+  "client_id": "101870681519380128835",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-test%40appsec-prod-r96gqxxij9l8.iam.gserviceaccount.com",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2dopJEJYFWC86\nj6Qk94HTRkaCHGTBI7TCKOwiSI4hrQ1p4xiKnLMAz5Nc4j6GPTd+SfVNv12rKNIp\nLKo2cJTdw/TlHLzxbSCiBrwYfGQEqpJaz5Vb9acacYJnVrk7onHdRDk0QMTmM+mf\nbjHV+dPLslZbCRCfsL/NY9OmRM2YOawtivJxr9IZWakvEt7rg4Q8zsCG/B3kNgTf\nbByGIXW+gK9+3UM+kg79WYp5A2ZJ5GTHVdUg7ZsEzvZq8k8zcDWh1AWlDUBtWxcm\nl776sRM4uGOIq8aDz35zM5b4y8YKDMUSf8CIIYXTTqbFzd/PtKJb1j6PqzkNvMyY\nT4QFAd8zAgMBAAECggEAAdTh+O9VXo0ASoxVk/sODuK8Bl2DawouN45eD1qWGNef\n6OQPd96NcxUiV1QfV40rIDW6HoNbTPEh6df8nfe8V4uL4kechnnjGASNBC1ckgbg\nH38mZs6BVJhlXx8vsXU8fUdvW7+xa7/JM0FGDrPb47o/bHw+lRDgu0jZHKKpiX0h\nm+fXlxHqEg4fpBsrrJq9Ec6623iOons+EO924AFKS0NFzexiGmgMOAq3tC1rTFYJ\nAwMPFqvE69D2C5jwg/aRLIMznk2vIGdNCn2ghINhaluzXIp7HUCal4TSz79pkgDE\n7vrygQ7T7NO+KofUEBUzYsoJQFQbY/BZeQXQnQrRHQKBgQD4PL1zLsg2eHokSoEx\n4grwVr82P3N/YUKZIA/96YyGyrmF+/3zncEpVbxgEYBmUNagMRltVBgVhS1izAI8\nqoG4BMHwSwCgHkgykoZ5XWDI8Qd1hlx369SlWpvATp5MbmxSnfEKy20VjLWEiuyF\neHUDvt0vO+sXkOG4aB6FGKjErQKBgQC8Kz7cory2cBEcaIHXk3RacowEml1v0U3O\nac7rHaQC2TPCOY2HUkr3jj0PGXEOUyImmJQif0Gc7/qQ+vCGE3xd4q+40sJT9+HG\n4+9FqoNiLBZ/b2IICJF4RtPQbbQL1UOS54F8OybaFCy+XNf1pD+YrIQFA7tJmqxK\n9wkJ1t3PXwKBgFso2x2oaWfveFNJdQZfj0rRYGjIhl6Z1f4rkxPYp318hwLYFltX\nbG8EiCfzZWatexPa1A6dGjcU8CTe7Fdg+kAcpyfaM0GZvUOtIWsCSp+gO/ABxoVX\neoC6tIW7mVBSIL96NuGS8N1ADgy9g7xEDxywA8PryhqeXvX8bnDMLHYFAoGAbPnS\nry8kgbgHgN9Zi0MfmJ5MTwIjaPXbzNZkerAw42FtY2e3eo6DUjmzTQJcAoLM/XNS\nH2R52Gz3PW3HTK8OUMVPJYgR+VVPEcPCOCOXcYy8/tLAAI0Nyo2icEyIgG3jc7nV\nuN/9EUGr5BebDu0v07jdwJW3qtoEPGozdtpUnZsCgYEAs45UhO6/jnvPwD7JS03a\nby8mJnt8tTipqH94SX+qgeTSYhU4YyKPdy0UzuvcQHRg3lI8nTK7P9aqw1NdQ6zg\n9UqTs/V48Gx9tEZDbYMfhO0kiXlYSbz8UL8urTGIRPmiVD/TU26vmadGmBFtfhqv\nN00xB3FA9I0HdLJlHXvTTCY=\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "323422d716e670a09a0a8466dd23239b43005122",
+  "project_id": "appsec-prod-r96gqxxij9l8",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "type": "service_account",
+  "universe_domain": "googleapis.com"
+}

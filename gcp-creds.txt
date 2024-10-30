@@ -1,0 +1,3 @@
+gcp_username = appsecengineer-r96gqxxij9l8@appsecengineer.com
+gcp_password = R96GqXXij9l8
+service_token = /root/service-key.json
